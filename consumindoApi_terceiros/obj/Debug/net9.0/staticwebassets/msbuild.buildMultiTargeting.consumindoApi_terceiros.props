@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\consumindoApi_terceiros.props" />
+</Project>

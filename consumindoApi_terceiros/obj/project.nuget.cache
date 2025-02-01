@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rf5O3F2MOoI=",
+  "success": true,
+  "projectFilePath": "E:\\aulas\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\consumindoApi_terceiros\\consumindoApi_terceiros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Feitoza\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Feitoza\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

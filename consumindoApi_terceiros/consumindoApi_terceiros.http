@@ -1,0 +1,6 @@
+@consumindoApi_terceiros_HostAddress = http://localhost:5151
+
+GET {{consumindoApi_terceiros_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
