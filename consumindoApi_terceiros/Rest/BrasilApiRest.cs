@@ -11,7 +11,7 @@ namespace consumindoApi_terceiros.Rest
     {
         public async Task<ResponseGeneric<Endereco>> GetEnderecoPorCep(string cep)
         {
-            var request = new HttpRequestMessage(HttpMethod.Get, $@"{cep}");
+            var request = new HttpRequestMessage(HttpMethod.Get, $"https://brasilapi.com.br/api/cep/v1/{cep}");
             var response = new ResponseGeneric<Endereco>();
             using (var client = new HttpClient())
             {

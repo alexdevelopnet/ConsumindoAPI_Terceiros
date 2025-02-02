@@ -10,22 +10,21 @@ namespace consumindoApi_terceiros.Models
     {
          
         [JsonPropertyName("cep")]
-        public string? Cep;
+        public string? Cep{get;set;}
 
         [JsonPropertyName("state")]
-        public string? Estado;
-
+        public string? Estado{get;set;} 
         [JsonPropertyName("city")]
-        public string? Cidade;
+        public string? Cidade{get;set;} 
 
         [JsonPropertyName("neighborhood")]
-        public string? REgiao;
+        public string? Regiao{get;set;}
 
         [JsonPropertyName("street")]
-        public string? Rua;
+        public string? Rua{get;set;}
 
         [JsonPropertyName("service")]
-        public string? Servico;
+        public string? Servico{get;set;}
 
 
     }

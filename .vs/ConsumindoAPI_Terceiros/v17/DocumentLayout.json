@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C7FFB0-2A6B-EE88-3605-D87FE7262C3F}|consumindoApi_terceiros\\consumindoApi_terceiros.csproj|c:\\eu\\2025\\dotnet\\api\\consumindoapi_terceiros\\consumindoapi_terceiros\\controller\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C7FFB0-2A6B-EE88-3605-D87FE7262C3F}|consumindoApi_terceiros\\consumindoApi_terceiros.csproj|solutionrelative:consumindoapi_terceiros\\controller\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C7FFB0-2A6B-EE88-3605-D87FE7262C3F}|consumindoApi_terceiros\\consumindoApi_terceiros.csproj|c:\\eu\\2025\\dotnet\\api\\consumindoapi_terceiros\\consumindoapi_terceiros\\dtos\\enderecoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C7FFB0-2A6B-EE88-3605-D87FE7262C3F}|consumindoApi_terceiros\\consumindoApi_terceiros.csproj|solutionrelative:consumindoapi_terceiros\\dtos\\enderecoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C7FFB0-2A6B-EE88-3605-D87FE7262C3F}|consumindoApi_terceiros\\consumindoApi_terceiros.csproj|c:\\eu\\2025\\dotnet\\api\\consumindoapi_terceiros\\consumindoapi_terceiros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C7FFB0-2A6B-EE88-3605-D87FE7262C3F}|consumindoApi_terceiros\\consumindoApi_terceiros.csproj|solutionrelative:consumindoapi_terceiros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C7FFB0-2A6B-EE88-3605-D87FE7262C3F}|consumindoApi_terceiros\\consumindoApi_terceiros.csproj|c:\\eu\\2025\\dotnet\\api\\consumindoapi_terceiros\\consumindoapi_terceiros\\rest\\brasilapirest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C7FFB0-2A6B-EE88-3605-D87FE7262C3F}|consumindoApi_terceiros\\consumindoApi_terceiros.csproj|solutionrelative:consumindoapi_terceiros\\rest\\brasilapirest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnderecoResponse.cs",
+              "DocumentMoniker": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\Dtos\\EnderecoResponse.cs",
+              "RelativeDocumentMoniker": "ConsumindoAPI_Terceiros\\Dtos\\EnderecoResponse.cs",
+              "ToolTip": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\Dtos\\EnderecoResponse.cs",
+              "RelativeToolTip": "ConsumindoAPI_Terceiros\\Dtos\\EnderecoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:40:55.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumindoAPI_Terceiros\\Program.cs",
+              "ToolTip": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\Program.cs",
+              "RelativeToolTip": "ConsumindoAPI_Terceiros\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:39:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrasilApiRest.cs",
+              "DocumentMoniker": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\Rest\\BrasilApiRest.cs",
+              "RelativeDocumentMoniker": "ConsumindoAPI_Terceiros\\Rest\\BrasilApiRest.cs",
+              "ToolTip": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\Rest\\BrasilApiRest.cs",
+              "RelativeToolTip": "ConsumindoAPI_Terceiros\\Rest\\BrasilApiRest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:23:07.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\Controller\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "ConsumindoAPI_Terceiros\\Controller\\EnderecoController.cs",
+              "ToolTip": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\Controller\\EnderecoController.cs",
+              "RelativeToolTip": "ConsumindoAPI_Terceiros\\Controller\\EnderecoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:22:44.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

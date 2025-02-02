@@ -8,18 +8,18 @@ namespace consumindoApi_terceiros.Dtos
 {
     public class EnderecoResponse
     {
-         
-        public string? Cep;        
-        public string? Estado;
-        
-        public string? Cidade;
-        
-        public string? REgiao;
 
-        
-        public string? Rua;
+        public string? Cep { get; set; }
+        public string? Estado { get; set; }
+
+        public string? Cidade { get; set; }
+
+        public string? REgiao { get; set; }
+
+
+        public string? Rua { get; set; }
 
         [JsonIgnore]
-        public string? Servico;
+        public string? Servico { get; set; }
     }
 }

@@ -532,11 +532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\consumindoApi_terceiros\\consumindoApi_terceiros.csproj",
+      "projectUniqueName": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\consumindoApi_terceiros\\consumindoApi_terceiros.csproj",
       "projectName": "consumindoApi_terceiros",
-      "projectPath": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\consumindoApi_terceiros\\consumindoApi_terceiros.csproj",
+      "projectPath": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\consumindoApi_terceiros\\consumindoApi_terceiros.csproj",
       "packagesPath": "C:\\Users\\Feitoza\\.nuget\\packages\\",
-      "outputPath": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\ConsumindoAPI_Terceiros\\consumindoApi_terceiros\\obj\\",
+      "outputPath": "C:\\eu\\2025\\Dotnet\\API\\ConsumindoAPI_Terceiros\\consumindoApi_terceiros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

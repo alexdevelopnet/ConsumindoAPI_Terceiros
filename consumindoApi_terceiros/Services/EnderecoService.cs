@@ -18,14 +18,8 @@ namespace consumindoApi_terceiros.Services
             _mapper = mapper;
             _brasilApi = brasilApi;
         }
-
-        public Task<ResponseGeneric<EnderecoResponse>> BuscarEndereco(string cep)
-        {
-            throw new NotImplementedException();
-        }
-
-
-        public async Task<ResponseGeneric<EnderecoResponse>> BuscarEnderecoCep(string cep)
+ 
+        public async Task<ResponseGeneric<EnderecoResponse>> BuscarEndereco(string cep)
         {
             var endereco = await _brasilApi.GetEnderecoPorCep(cep);
             return _mapper.Map<ResponseGeneric<EnderecoResponse>>(endereco);
